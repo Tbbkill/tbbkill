@@ -1,0 +1,8 @@
+
+Origin: Tbbkill
+Label: Tbbkill
+Suite: stable
+Version: 1.0
+Architectures: iphoneos-arm
+Components: main
+Description: Source Private
