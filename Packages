@@ -1,0 +1,14 @@
+Package: com.online.snapbreak.free
+Version: 1.7.1Do
+Architecture: iphoneos-arm
+Maintainer: tbbkill	
+Depends:  firmware (>= 10.0), mobilesubstrate, sed	
+Conflicts: com.cokepokes.snapdecent	
+Filename: debs/snapbreak_doarm.deb
+Size: 6120682	
+MD5sum: 5e68fade5924413284fc4a6c9224b22f	
+SHA1: d42cbc6f99c41bfcb736ebe5f6797f70d86e3ca3	
+SHA256: 54fb3053a5f4010e623322785c666f993739bcb2e2a164c87cc66099e3850040
+Section: IOS13
+Depiction: https://tbbkill.github.io/tbbkill/
+Name: Snapbreak
